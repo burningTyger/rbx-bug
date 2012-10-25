@@ -1,5 +1,4 @@
 # encoding: UTF-8
-gem "minitest"
 require "#{File.dirname(__FILE__)}/app"
 require 'minitest/autorun'
 require 'rack/test'
